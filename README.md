@@ -1,6 +1,10 @@
-### Hi there 👋
+# sobre mim
+.ola,eu me chamo gabriele rete de lima soares;
+atualmente estudo em CECMPS;
+atualmente estou programaçao no scrath e e javascript; 
+instagram;@gabi jaxuka lima
 
-<!--
+
 **gabilima15/gabilima15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
